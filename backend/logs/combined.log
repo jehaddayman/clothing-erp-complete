@@ -1,0 +1,22 @@
+2026-06-21 14:53:38 [INFO]: MongoDB connected: localhost
+2026-06-21 14:53:38 [INFO]: Starting seed...
+2026-06-21 14:53:44 [INFO]: Users seeded
+2026-06-21 14:53:44 [INFO]: Chart of accounts seeded
+2026-06-21 14:53:46 [INFO]: 40 products seeded
+2026-06-21 14:53:46 [INFO]: 10 customers seeded
+2026-06-21 14:53:46 [INFO]: 4 suppliers seeded
+2026-06-21 14:53:47 [WARN]: Skipped sample order due to: Transaction numbers are only allowed on a replica set member or mongos
+2026-06-21 14:53:47 [WARN]: Skipped sample order due to: Transaction numbers are only allowed on a replica set member or mongos
+2026-06-21 14:53:47 [WARN]: Skipped sample order due to: Transaction numbers are only allowed on a replica set member or mongos
+2026-06-21 14:53:47 [WARN]: Skipped sample order due to: Transaction numbers are only allowed on a replica set member or mongos
+2026-06-21 14:53:47 [WARN]: Skipped sample order due to: Transaction numbers are only allowed on a replica set member or mongos
+2026-06-21 14:53:47 [WARN]: Skipped sample order due to: Transaction numbers are only allowed on a replica set member or mongos
+2026-06-21 14:53:47 [WARN]: Skipped sample order due to: Transaction numbers are only allowed on a replica set member or mongos
+2026-06-21 14:53:47 [WARN]: Skipped sample order due to: Transaction numbers are only allowed on a replica set member or mongos
+2026-06-21 14:53:47 [WARN]: Skipped sample order due to: Transaction numbers are only allowed on a replica set member or mongos
+2026-06-21 14:53:47 [WARN]: Skipped sample order due to: Transaction numbers are only allowed on a replica set member or mongos
+2026-06-21 14:53:47 [WARN]: Skipped sample order due to: Transaction numbers are only allowed on a replica set member or mongos
+2026-06-21 14:53:47 [WARN]: Skipped sample order due to: Transaction numbers are only allowed on a replica set member or mongos
+2026-06-21 14:53:47 [WARN]: Skipped sample order due to: Transaction numbers are only allowed on a replica set member or mongos
+2026-06-21 14:53:47 [WARN]: Skipped sample order due to: Transaction numbers are only allowed on a replica set member or mongos
+2026-06-21 14:53:47 [WARN]: Skipped sample order due to: Transaction numbers are only allowed on a replica set member or mongos

@@ -1,0 +1,54 @@
+{
+  "app": { "name": "Clothing ERP" },
+  "nav": {
+    "dashboard": "Dashboard",
+    "products": "Products",
+    "inventory": "Inventory",
+    "customers": "Customers",
+    "orders": "Sales & Orders",
+    "suppliers": "Suppliers",
+    "packaging": "Packaging",
+    "shipping": "Shipping",
+    "returns": "Returns",
+    "accounting": "Accounting",
+    "cashflow": "Cash Flow",
+    "planning": "Future Planning",
+    "logout": "Logout"
+  },
+  "auth": {
+    "login": "Login",
+    "email": "Email",
+    "password": "Password",
+    "signIn": "Sign In",
+    "welcomeBack": "Welcome back",
+    "loginSubtitle": "Sign in to manage your clothing business"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "totalRevenue": "Total Revenue",
+    "totalExpenses": "Total Expenses",
+    "netProfit": "Net Profit",
+    "cashFlow": "Cash Flow",
+    "inventoryValue": "Inventory Value",
+    "totalProducts": "Total Products",
+    "lowStockAlerts": "Low Stock Alerts",
+    "pendingShipments": "Pending Shipments",
+    "returnedOrders": "Returned Orders",
+    "monthlySales": "Monthly Sales"
+  },
+  "common": {
+    "search": "Search",
+    "filter": "Filter",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "create": "Create",
+    "loading": "Loading...",
+    "noResults": "No results found",
+    "actions": "Actions",
+    "status": "Status",
+    "darkMode": "Dark Mode",
+    "lightMode": "Light Mode"
+  }
+}
